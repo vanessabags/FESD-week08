@@ -1,0 +1,66 @@
+.group {
+    border-style: dotted;
+    border-width: 25%;
+    text-align: center;
+    padding: 15px;
+}
+main {
+    padding: 2rem;
+    background-color: #dbf3fa;
+    line-height: 30px;
+    text-align: center;
+}
+html {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #dbf3fa;
+}   
+h1 {
+    text-shadow: lightgray 3px 5px;
+    text-align: center;
+    font-size: 40px;
+    background-color: white;
+    padding: 2rem;
+}
+h3:hover {
+    color: crimson;
+}
+#mainbackground {
+    background-color: #93FFE8;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 600px;
+    width: auto;
+    border-radius: 10px;
+    border: 10px solid
+}
+#color-image {
+    border-color: darkcyan;
+}
+#regular-image{
+    border-color: darkgray;
+}
+table {
+    align-items: center;
+    border-collapse: collapse;
+    width: 800px;
+}
+th, td {
+    text-align: left;
+    height: 10px;
+}
+th {
+    border-bottom: 1px solid black;
+}
+form {
+    padding: 20px;
+    border-width: 2px;
+    margin-top: 1px black;
+}
+* {
+    border: 1px solid red;
+}
